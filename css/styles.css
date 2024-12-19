@@ -101,7 +101,17 @@ img {
     height: auto; 
     
   }
-  
+
+.gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; /* Centra las imágenes horizontalmente */
+    align-items: center;    /* Centra las imágenes verticalmente */
+    gap: 20px;              /* Espaciado entre imágenes */
+    margin: 20px auto;      /* Centra la galería en la página */
+    max-width: 1200px;      /* Limita el ancho máximo */
+}
+
   /* Estilo inicial para imágenes en la galería */
 .gallery img.thumbnail {
     width: 150px;
