@@ -1,0 +1,17 @@
+[
+    {
+        "titulo": "Nuevo lanzamiento de producto",
+        "descripcion": "Nuestra empresa ha lanzado un nuevo producto que revolucionará el mercado.",
+        "enlace": "https://ejemplo.com/nuevo-producto"
+    },
+    {
+        "titulo": "Evento especial este fin de semana",
+        "descripcion": "Únete a nosotros para un evento exclusivo lleno de sorpresas y descuentos.",
+        "enlace": "https://ejemplo.com/evento-especial"
+    },
+    {
+        "titulo": "Actualización de la plataforma",
+        "descripcion": "Hemos actualizado nuestra plataforma con nuevas funcionalidades para mejorar tu experiencia.",
+        "enlace": "https://ejemplo.com/actualizacion"
+    }
+]
